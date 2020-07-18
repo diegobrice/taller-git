@@ -5,3 +5,11 @@ body {
 p {
   font-size: 30px;
 }
+
+
+footer {
+  background-color: darkblue;
+  text-align: center;
+  color: white;
+  padding: 10px;
+}
