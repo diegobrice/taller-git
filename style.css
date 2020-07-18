@@ -6,6 +6,10 @@ p {
   font-size: 30px;
 }
 
+#rrss {
+  background-color: rgba(0, 0, 0, 0.1);
+  color: white;
+}
 
 footer {
   background-color: darkblue;
